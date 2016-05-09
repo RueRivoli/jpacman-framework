@@ -1,0 +1,14 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: jpacman-framework2350
+Bundle-SymbolicName: jpacman-framework2350
+Bundle-Version: 1.0.0.qualifier
+Export-Package: nl.tudelft.jpacman,
+ nl.tudelft.jpacman.board,
+ nl.tudelft.jpacman.game,
+ nl.tudelft.jpacman.level,
+ nl.tudelft.jpacman.npc,
+ nl.tudelft.jpacman.npc.ghost,
+ nl.tudelft.jpacman.sprite,
+ nl.tudelft.jpacman.ui,
+ nl.tudelft.jpacman.util
